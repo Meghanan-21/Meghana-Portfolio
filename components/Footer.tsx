@@ -4,12 +4,12 @@ export default function Footer() {
       <div className="max-w-4xl mx-auto space-y-4">
         <p className="text-gray-400 text-sm font-medium">Built by Meghana</p>
         <div className="flex items-center justify-center gap-6">
-          <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer"
+          <a href="https://www.linkedin.com/in/meghana-n-3b6539331" target="_blank" rel="noopener noreferrer"
             className="text-gray-500 hover:text-blue-400 text-sm transition-colors duration-200">
             LinkedIn
           </a>
           <span className="text-gray-700">·</span>
-          <a href="https://github.com" target="_blank" rel="noopener noreferrer"
+          <a href="https://github.com/Meghanan-21" target="_blank" rel="noopener noreferrer"
             className="text-gray-500 hover:text-blue-400 text-sm transition-colors duration-200">
             GitHub
           </a>
